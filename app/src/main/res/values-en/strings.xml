@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Exercise02</string>
+    <string name="btn_novo">New</string>
+    <string name="txt_modelo">Model</string>
+    <string name="txt_fabricante">Manufacturer</string>
+    <string name="txt_ano">Year</string>
+    <string name="btn_salvar">Save</string>
+
+    <string name="vw">VolksWagen</string>
+    <string name="gm">Chevrolet</string>
+    <string name="fiat">FIAT</string>
+    <string name="ford">Ford</string>
+
+    <string-array name="fabricantes">
+        <item>@string/vw</item>
+        <item>@string/gm</item>
+        <item>@string/fiat</item>
+        <item>@string/ford</item>
+    </string-array>
+</resources>
